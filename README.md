@@ -2,7 +2,7 @@
 
 Real Time Smile Detector Using OpenCV 
 
-#Approach 
+# Approach 
 
 
 1.Finding Faces in our Image(Haar algorithm)
